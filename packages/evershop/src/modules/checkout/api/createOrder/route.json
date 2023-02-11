@@ -1,0 +1,7 @@
+{
+  "methods": [
+    "POST"
+  ],
+  "path": "/orders",
+  "access": "public"
+}

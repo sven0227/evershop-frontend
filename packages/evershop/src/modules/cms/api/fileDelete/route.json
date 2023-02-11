@@ -1,0 +1,7 @@
+{
+  "methods": [
+    "DELETE"
+  ],
+  "path": "/files/*",
+  "access": "private"
+}

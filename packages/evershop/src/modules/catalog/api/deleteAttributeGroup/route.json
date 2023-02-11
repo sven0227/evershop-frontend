@@ -1,0 +1,7 @@
+{
+  "methods": [
+    "DELETE"
+  ],
+  "path": "/attributeGroups/:id",
+  "access": "private"
+}
